@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    outline:0;
+    font-size:100%;
+    
+}
+
+#espacio{
+    width: 100;
+    text-align: center;
+    background-color: #f2f2f2;
+    padding-bottom: 30px
+}
+
+#espacio h1{
+    font-family: arial;
+    font-size: 25px;
+    padding: 5px 5px 5px 5px
+}
+
+.calculadora{
+   width: 635px;
+    margin: 0 auto;
+    background-color: #bdc3c7
+}
+
+.calculadora input{
+    width: 36%;
+    margin: 10px 0px 5px 0px;
+    padding: 5px 5px 5px 5px;
+}
+
+.botonera{
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.botonera button{
+    text-align: center
+    width: 10px;
+    height: 50px;
+    padding: 20px 20px 20px 20px;
+    margin: 5px 3px 5px 3px;
+    
+}
